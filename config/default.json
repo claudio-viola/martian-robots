@@ -1,0 +1,17 @@
+{
+  "mars": {
+    "grid": {
+      "lx": 0,
+      "ly": 0,
+      "ux": 1,
+      "uy": 1,
+      "max_x": 50,
+      "max_y": 50
+    }
+  },
+  "instructions": {
+    "max_length": 100,
+    "input": "./instructions/input.txt",
+    "output": "./instructions/output.txt"
+  }
+}
